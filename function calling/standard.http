@@ -1,0 +1,10 @@
+POST https://api.openai.com/v1/chat/completions
+Authorization: Bearer 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
+Content-Type: application/json
+
+{
+  "model": "gpt-3.5-turbo-0613",
+  "messages": [
+    {"role": "user", "content": "Please provide a list of comma-separated keywords that best describe the content of your YouTube video titled : Function Calling Using Open... This will help others better understand the video's subject matter and aid in its discoverability on the platform."}
+  ]
+}
