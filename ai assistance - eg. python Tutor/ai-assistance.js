@@ -2,7 +2,7 @@ import axios from "axios";
 import fs from 'fs'
 
 // Replace 'YOUR_API_KEY' with your actual OpenAI API key
-const apiKey = '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';
+const apiKey = {your_api_key};
 let assistantId;
 let threadId;
 let runId;
