@@ -4,7 +4,7 @@
 
 This project demonstrates the integration of the OpenAI Assistant API to create a Python Tutor assistant. The assistant supports Python-related queries, utilizing the Code Interpreter tool.
 
-[![Alt Text](https://img.youtube.com/vi/pPXRmQ37M6k?si/0.jpg)](https://www.youtube.com/watch?v=pPXRmQ37M6k?si)
+[![Alt Text](https://img.youtube.com/vi/pPXRmQ37M6k/0.jpg)](https://www.youtube.com/watch?v=pPXRmQ37M6k)
 
 ## Integration Steps
 
